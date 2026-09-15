@@ -1,0 +1,16 @@
+Flask
+numpy
+pandas
+pickle
+scikit-learn
+'''
+        Temperature = float(request.form.get('Temperature'))
+        RH = float(request.form.get('RH'))
+        Ws = float(request.form.get('Ws'))
+        Rain = float(request.form.get('Rain'))
+        FFMC = float(request.form.get('FFMC'))
+        DMC = float(request.form.get('DMC'))
+        ISI = float(request.form.get('ISI'))
+        Classes = float(request.form.get('Classes'))
+        Region = float(request.form.get('Region'))
+'''
