@@ -40,7 +40,7 @@ Machine-Learning/
 ├── XGBoost/                     # XGBoost classifier
 ├── Ensemble Heterogenous/       # Voting & Stacking
 ├── K-Means/                     # K-Means, Elbow & Silhouette methods
-├── Heirarchical Clustering/     # Agglomerative clustering
+├── Hierarchical Clustering/     # Agglomerative clustering
 ├── DBSCAN/                      # Density-based clustering
 ├── PCA/                         # Principal Component Analysis
 ├── Anomaly Detection/           # Isolation Forest, LOF, DBSCAN
@@ -105,7 +105,7 @@ Machine-Learning/
 | **K-Means** | `KMeans.ipynb` | K-Means basics and choosing *k* with the **Elbow** and **Silhouette** methods |
 | | `kMeans2.ipynb` | K-Means with scaling and silhouette evaluation |
 | | `irisKMeans.ipynb` | K-Means on Iris, visualized with PCA |
-| **Heirarchical Clustering** | `heirarchical.ipynb` | Agglomerative clustering and dendrograms on Iris |
+| **Hierarchical Clustering** | `hierarchical.ipynb` | Agglomerative clustering and dendrograms on Iris |
 | **DBSCAN** | `dbscan.ipynb` | DBSCAN on Iris |
 | | `nonLinearDBSCAN.ipynb` | DBSCAN vs K-Means on non-linear (moon-shaped) data |
 
